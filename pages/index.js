@@ -20,7 +20,7 @@ const users = [
     name: "Daniel Johnson",
     comment: "KIM CHON delivered a solution beyond my expectations.",
     image: "/image/users/user-3.jpg",
-    rating: 5,
+    rating: 4,
   },
   {
     name: "Olivia Smith",
@@ -32,7 +32,7 @@ const users = [
     name: "Benjamin Taylor",
     comment: "KIM CHON impresses with their quality service and approachable demeanor.",
     image: "/image/users/user-5.jpg",
-    rating: 5,
+    rating: 4,
   },
 ];
 
