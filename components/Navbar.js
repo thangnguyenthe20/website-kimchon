@@ -21,7 +21,7 @@ export default function Navbar() {
 
             <div className="flex items-center justify-start gap-10 lg:flex-1 lg:w-0">
               <Link href="/" className="uppercase">
-                freshvibs
+                kim chon
               </Link>
               <Popover.Group as="nav" className="hidden space-x-10 lg:flex">
                 <Link href="/our-services" className="text-primary hover:underline">

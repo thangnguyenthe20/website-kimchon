@@ -47,8 +47,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # casami
 
-# freshvibs
+# kim chon
 
-# website-freshvibs
+# website-kim chon
 
-# website-freshvibs
+# website-kim chon

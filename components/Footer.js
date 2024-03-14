@@ -16,8 +16,8 @@ const Footer = () => {
           We are committed to offering assistance and support. If you have any questions, concerns, or requests
           regarding our products or brands, please don't hesitate to contact us by email:
           <br />
-          <Link className="text-blue-500 underline" href="mailto:freshvibs.contact@gmail.com" target="_blank">
-            freshvibs.contact@gmail.com
+          <Link className="text-blue-500 underline" href="mailto:hello.kimchon@gmail.com" target="_blank">
+            hello.kimchon@gmail.com
           </Link>
         </p>
       </Modal>
@@ -50,8 +50,8 @@ const Footer = () => {
         <h3 className="mb-1.5 text-lg font-bold">EASY RETURN & EXCHANGE PROCESS</h3>
         <p>
           Firstly, email (So We Can Send You Your Receipt) customer care at{" "}
-          <Link className="text-blue-500 underline" href="mailto:freshvibs.contact@gmail.com" target="_blank">
-            freshvibs.contact@gmail.com
+          <Link className="text-blue-500 underline" href="mailto:hello.kimchon@gmail.com" target="_blank">
+            hello.kimchon@gmail.com
           </Link>{" "}
           or call our support team. Our team is available to talk to you 9am-5pm, Monday to Friday! Include in your
           initial request how you wish to proceed (return or exchange) and we will walk you through the process of which
@@ -74,9 +74,7 @@ const Footer = () => {
       </Modal>
       <Modal open={showModalRefund} setOpen={setShowModalRefund} title="Refund policy">
         <p className="text-xl leading-8">
-          Once we receive your item, a refund is initiated immediately. If you canceled a pickup item, and you were
-          billed for it, we initiate your refund immediately after you submit your cancellation request. The way your
-          refund is processed depends on your original payment method.
+          Revolutionizing through communication, KIM CHON is on a mission to redefine industry norms.
         </p>
       </Modal>
       <div className="flex flex-col-reverse lg:flex-row">
@@ -104,11 +102,11 @@ const Footer = () => {
               Refund policy
             </span>
             <div className="flex justify-center col-span-3 gap-4 mt-1 lg:justify-start">
-              <Link target="_blank" href="https://www.facebook.com/halalashopp">
-                <img src="/image/icon/facebook.svg" alt="" width={30} className="rounded" />
-              </Link>
-              <Link target="_blank" href="https://www.tiktok.com/@morripeelinglotion">
+              <Link target="_blank" href="https://www.tiktok.com/@fegpluseyerepaircream?lang=vi-VN">
                 <img src="/image/icon/tiktok.svg" alt="" width={30} className="rounded" />
+              </Link>
+              <Link target="_blank" href="https://middleeast.fegbeauty.com">
+                <img src="/image/icon/global.svg" alt="" width={30} className="rounded" />
               </Link>
             </div>
           </div>

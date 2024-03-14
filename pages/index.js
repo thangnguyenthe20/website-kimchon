@@ -5,34 +5,32 @@ import classnames from "classnames";
 
 const users = [
   {
-    name: "John Smith",
-    comment: "Professional and creative. They significantly boosted our sales.",
+    name: "James Anderson",
+    comment: "Outstanding service! Exceeded expectations with their attention to detail and commitment.",
     image: "/image/users/user-1.jpg",
     rating: 5,
   },
   {
-    name: "Michael Brown",
-    comment:
-      " The team is truly exceptional. Their attention to detail and innovative solutions exceeded our expectations.",
+    name: "Emily Williams",
+    comment: "Highly recommended! KIM CHON impressed me with their professionalism and efficiency.",
     image: "/image/users/user-2.jpg",
     rating: 5,
   },
   {
-    name: "Emily Roberts",
-    comment: "They work professionally and expertly. We're very pleased with their knowledge and collaboration.",
+    name: "Daniel Johnson",
+    comment: "KIM CHON delivered a solution beyond my expectations.",
     image: "/image/users/user-3.jpg",
     rating: 5,
   },
   {
-    name: "Jessica Lee",
-    comment: "They work professionally and skillfully. We are very satisfied with their knowledge and cooperation.",
+    name: "Olivia Smith",
+    comment: "Exceptional service! They demonstrated a genuine commitment to customer care.",
     image: "/image/users/user-4.jpg",
     rating: 5,
   },
   {
-    name: "Emily Clark",
-    comment:
-      "Exceptional service tailored to our needs. Their impact on our brand visibility and customer engagement has been remarkable.",
+    name: "Benjamin Taylor",
+    comment: "KIM CHON impresses with their quality service and approachable demeanor.",
     image: "/image/users/user-5.jpg",
     rating: 5,
   },
@@ -45,16 +43,17 @@ export default function Home() {
         <div className="absolute inset-0">
           <Image
             src="/image/banners/banner-0.jpg"
-            alt="freshvibs"
+            alt="kim chon"
             fill
             className="object-cover object-top w-full h-full -z-10 brightness-[0.9]"
           />
         </div>
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="w-full sm:w-[500px] flex justify-center items-center flex-col lg:gap-9 gap-4">
-            <h3 className="text-white uppercase text-heading">freshvibs</h3>
+            <h3 className="text-white uppercase text-heading">kim chon</h3>
             <p className="leading-6 text-center text-white">
-              We specialize in providing comprehensive Marketing Solutions tailored to your business needs.
+              Unlock the power of effective communication with KIM CHON, where innovation meets impact in the world of
+              media and communications.
             </p>
           </div>
         </div>
@@ -63,7 +62,7 @@ export default function Home() {
         <div className="absolute inset-0">
           <Image
             src="/image/banners/banner-1.jpg"
-            alt="freshvibs"
+            alt="kim chon"
             fill
             className="object-cover object-top w-full h-full -z-10 brightness-[0.9]"
           />
@@ -73,8 +72,8 @@ export default function Home() {
             <div className="flex items-center justify-center w-full h-full px-8 pt-16 lg:px-6 sm:p-16">
               <div className="w-full sm:w-[600px] flex justify-center items-center lg:text-start text-center flex-col gap-9">
                 <p className="px-8 text-2xl text-center text-white sm:px-0">
-                  We offer a range of marketing services and strategies aimed at boosting your company's revenue and
-                  profitability.
+                  We're on a mission to redefine communication, creating impactful stories that resonate and inspire
+                  change.
                 </p>
                 <Link href="/our-services" className="block text-white tracking-[1px] w-fit pb-2">
                   <button className="btn btn-primary w-fit">OUR SERVICES</button>
@@ -88,7 +87,7 @@ export default function Home() {
         <div className="absolute inset-0">
           <Image
             src="/image/banners/banner-2.jpg"
-            alt="freshvibs"
+            alt="kim chon"
             fill
             className="object-cover object-center w-full h-full -z-10 brightness-[0.9]"
           />
@@ -98,8 +97,9 @@ export default function Home() {
             <div className="flex items-center justify-center w-full h-full px-8 pt-16 lg:px-6 sm:p-16">
               <div className="w-full sm:w-[600px] flex justify-center items-center lg:text-start text-center flex-col gap-9">
                 <p className="px-8 text-2xl text-center text-white sm:px-0">
-                  Our company was founded by industry veterans with over 15 years of experience, dedicated to delivering
-                  quality and excellence in every aspect of our services.
+                  At KIM CHON, our mission is to craft compelling narratives, spark meaningful conversations, and shape
+                  the future of communication. We believe in the transformative power of storytelling to connect,
+                  inspire, and drive positive change in the world.
                 </p>
                 <Link href="/about" className="block text-white tracking-[1px] w-fit pb-2">
                   <button className="btn btn-primary w-fit">ABOUT US</button>

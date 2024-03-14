@@ -15,6 +15,6 @@ fi
 echo $server:$port
 npm run export
 # ssh $server << EOF
-scp -r ./out/* "$server":/www/wwwroot/freshvibs
+scp -r ./out/* "$server":/www/wwwroot/kimchon
 # EOF
 

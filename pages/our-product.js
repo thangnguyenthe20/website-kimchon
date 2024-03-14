@@ -5,66 +5,58 @@ import { v4 } from "uuid";
 
 const products = [
   {
-    name: "KASOMO Hair and Brow Boost Serum",
-    image: "/image/products/product-1.webp",
-    desc: [
-      "Promote natural hair and eyebrow growth, helping you achieve fuller, thicker, and healthier-looking hair and brows.",
-    ],
+    name: "HolySmile Luminous Smile Serum",
+    image: "/image/products/product-1.jpg",
+    desc: ["Reveal a brighter, more radiant smile by banishing unwanted yellow tones from your teeth."],
   },
   {
-    name: "KASOMO Hair Growth Shampoo",
-    image: "/image/products/product-2.webp",
-    desc: [
-      "Stimulate hair follicles, reduce hair loss, and promote healthier, thicker hair growth for a fuller and more vibrant mane.",
-    ],
+    name: "Mushroom Head Air Cushion CC Cream",
+    image: "/image/products/product-2.jpg",
+    desc: ["Providing full coverage and an even skin tone, suitable for all skin types."],
   },
   {
-    name: "Morri Orange Glow Exfoliating Lotion",
+    name: "Charmante Advanced Moisturizing Hand Cream",
     image: "/image/products/product-3.jpg",
-    desc: ["Gently remove dead skin cells, revealing brighter and smoother skin with a radiant, youthful glow."],
+    desc: ["Anti-aging, pore shrinking, hydrating anti-cracked."],
   },
   {
-    name: "Trezzen BlackSilk Hair Bar Soap",
+    name: "KASOMO Ultimate Hair Growth Serum",
     image: "/image/products/product-4.jpg",
+    desc: ["Boost natural and healthy hair growth, increase hair density, reduce hair loss."],
+  },
+  {
+    name: "KASOMO Intense Hydrating Repair Treatment Mask",
+    image: "/image/products/product-5.png",
     desc: [
-      "Infused with nourishing ingredients to naturally darken and enhance hair color, leaving your locks silky smooth and lustrously black.",
+      "Hydrating & conditioning for curly, coloured, frizzy, broken or bleached hair. vegan, cruelty & sulphate free.",
     ],
   },
   {
-    name: "Berari Vanish Vein Reduction Cream",
-    image: "/image/products/product-5.jpg",
-    desc: [
-      "Diminish the appearance of varicose veins and spider veins, promoting smoother and healthier-looking skin.",
-    ],
-  },
-  {
-    name: "HolySmile RadiantWhite Teeth Whitening Serum",
+    name: "KASOMO Organic Beard & Brow Regrowth Serum",
     image: "/image/products/product-6.jpg",
-    desc: ["Effectively lighten tooth discoloration and brighten your smile, restoring confidence with every use."],
+    desc: ["Help grow facial hair stronger, faster and healthier."],
   },
   {
-    name: "FungiGlow CC Cushion Cream",
+    name: "KASOMO Advanced Anti-hair Loss & dandruff Activator Shampoo",
     image: "/image/products/product-7.jpg",
-    desc: [
-      "A lightweight and hydrating formula with a unique mushroom-shaped applicator, providing seamless coverage and a natural, radiant finish for flawless-looking skin.",
-    ],
+    desc: ["Shampoo for dandruff prone & itchy scalp, deep cleanse purifies and nourishes the scalp."],
   },
   {
-    name: "Charmante AquaGlow Hand Hydration Serum",
-    image: "/image/products/product-8.png",
+    name: "Morri Orange Exfoliating Gel",
+    image: "/image/products/product-8.jpg",
     desc: [
       "A nourishing formula crafted to deeply moisturize and revitalize your hands, leaving them silky smooth and irresistibly touchable.",
     ],
   },
   {
-    name: "KASOMO Boosting Hair And Eyebrow Growth Serum",
-    image: "/image/products/product-9.webp",
-    desc: ["Revitalize your scalp, repair damage, and trigger cell renewal for denser hair and eyebrow growth."],
+    name: "Trezzen Gray Reverse Bar Soap",
+    image: "/image/products/product-9.jpg",
+    desc: ["Restoring your natural hair color, from gray hair to vivid dark color."],
   },
   {
-    name: "KASOMO Nourishing Hair Repair Mask",
-    image: "/image/products/product-10.jpg",
-    desc: ["An ideal therapy for damaged, unruly hair, effortlessly restore smoothness"],
+    name: "Berari | Inflammation Blood Varicose Veins Cream",
+    image: "/image/products/product-10.png",
+    desc: ["Improve blood circulation, eliminate the appearance of varicose veins, relieve pain of legs."],
   },
 ];
 
